@@ -1,6 +1,17 @@
-title: Dinesh Vhatte
+title: <p align="center"> Dinesh Vhatte </p>
 logo: /assets/img/DineshVhatte.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/dineshvhatte/">LinkedIn</a> |
+  <a href="https://github.com/DineshVhatte">GitHub</a>
+  
+  <br>   
+  I am a full stack web developer having very good experience in end to end development. My key skills are Java, J2EE, Spring Boot, Spring MVC, Spring Security, Hibernate, JAVASCRIPT, JQuery, AngularJs, Unix, MySQL, NoSQL, Kubernetes, Docker and Azure and Amazon Cloud Services
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
