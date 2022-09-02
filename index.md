@@ -8,7 +8,7 @@ This repository holds the PX4 flight control solution for drones, with the main 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DineshVhatte/Firmware)
 
-<center><img src="assets/img/PX4."/></center>
+<center><img src="assets/img/PX4.png"/></center>
 
 ---
 ### Problem Solving
